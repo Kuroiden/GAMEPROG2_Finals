@@ -26,7 +26,7 @@ i wanna kms frfr
 - To fix this, open the models in Blender or smth and delete the rig. Export as .obj to open them in Mixamo.
 
 **Textures**
-- Niv still has yet to send the remaining textures. You're gonna have to deal with the solid colors for now.
+- The models have textures now, thanks Niv
 
 
 
