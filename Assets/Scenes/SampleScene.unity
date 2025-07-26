@@ -3676,6 +3676,13 @@ MonoBehaviour:
   playerSpd: 5
   jumpForce: 5
   gravity: 15
+  crouchHeight: 3
+  standHeight: 7
+  crouchSpeed: 2
+  crouchCamHeightOffset: -0.5
+  leanAngle: 15
+  leanOffset: 1
+  leanSpeed: 5
 --- !u!1001 &1398247775
 PrefabInstance:
   m_ObjectHideFlags: 0
