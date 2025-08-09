@@ -10,8 +10,10 @@ public class Player : MonoBehaviour
     [Header("Game Objects")]
     CharacterController PlayerCtrl;
     public Camera PlayerCam;
-    public Slider Health;
     public Slider Stamina;
+    public GameObject[] HealthOverlay;
+    public GameObject Win;
+    public GameObject Lose;
 
     [Header("Player Movement")]
     public bool canMove;
@@ -47,6 +49,16 @@ public class Player : MonoBehaviour
 
     Vector3 defaultCamPos;
 
+    [Header("Player Stats")]
+    public int HP = 5;
+    public int MaxStamina;
+    public int CurrStamina;
+    public int Ammo;
+
+    [Header("Player Win/Lose")]
+    public bool p_Win = false;
+    public bool p_Lose = false;
+
     void Start()
     {
         PlayerCtrl = GetComponent<CharacterController>();
@@ -75,6 +87,80 @@ public class Player : MonoBehaviour
         float updateYPos = updatePos.y;
 
         updatePos = (playerVeloX * playerForward) + (playerVeloZ * playerRight);
+
+        switch (HP)
+        {
+            case 0:
+                p_Lose = true;
+
+                HealthOverlay[0].SetActive(true);
+                HealthOverlay[1].SetActive(false);
+                HealthOverlay[2].SetActive(false);
+                HealthOverlay[3].SetActive(false);
+                HealthOverlay[4].SetActive(true);
+                break;
+
+            case 1:
+                HealthOverlay[0].SetActive(false);
+                HealthOverlay[1].SetActive(false);
+                HealthOverlay[2].SetActive(false);
+                HealthOverlay[3].SetActive(true);
+                HealthOverlay[4].SetActive(false);
+                break;
+
+            case 2:
+                HealthOverlay[0].SetActive(false);
+                HealthOverlay[1].SetActive(false);
+                HealthOverlay[2].SetActive(true);
+                HealthOverlay[3].SetActive(false);
+                HealthOverlay[4].SetActive(false);
+                break;
+
+            case 3:
+                HealthOverlay[0].SetActive(false);
+                HealthOverlay[1].SetActive(true);
+                HealthOverlay[2].SetActive(false);
+                HealthOverlay[3].SetActive(false);
+                HealthOverlay[4].SetActive(false);
+                break;
+
+            case 4:
+                HealthOverlay[0].SetActive(true);
+                HealthOverlay[1].SetActive(false);
+                HealthOverlay[2].SetActive(false);
+                HealthOverlay[3].SetActive(false);
+                HealthOverlay[4].SetActive(false);
+                break;
+
+            case 5:
+                HealthOverlay[0].SetActive(false);
+                HealthOverlay[1].SetActive(false);
+                HealthOverlay[2].SetActive(false);
+                HealthOverlay[3].SetActive(false);
+                HealthOverlay[4].SetActive(false);
+                break;
+        }
+
+        if (p_Win || p_Lose)
+        {
+            canMove = false;
+
+            if (p_Win) Win.SetActive(true);
+            else if (p_Lose) Lose.SetActive(true);
+
+            if (Input.GetKey(KeyCode.R))
+            {
+                p_Lose = false;
+                p_Win = false;
+            }
+        }
+        else
+        {
+            canMove = true;
+
+            Win.SetActive(false);
+            Lose.SetActive(false);
+        }
 
         if (canMove)
         {

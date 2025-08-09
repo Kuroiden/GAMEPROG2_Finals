@@ -50,23 +50,32 @@ public class Enemy : MonoBehaviour
     {
         if (aiManager.isAIAwake)
         {
-            if (!enemy_Move.pathPending && enemy_Move.remainingDistance < distance && !isHostile)
+            if (!enemy_Move.pathPending && enemy_Move.remainingDistance < distance)
             {
                 gameManager.playerFound = false;
 
-                if (interestTimer > 0) interestTimer -= Time.deltaTime;
-                else if (interestTimer <= 0)
+                if (fov.foundPlayer.Count == 0)
                 {
-                    MoveDestination();
-
-                    interestTimer = 0;
+                    if (interestTimer > 0)
+                    {
+                        interestTimer -= Time.deltaTime;
+                        enemy_Move.ResetPath();
+                    }
+                    else if (interestTimer <= 0)
+                    {
+                        MoveDestination();
+                        interestTimer = 0;
+                    }
                 }
+                
             }
-            else if (isHostile)
+            else if (fov.foundPlayer.Count != 0)
             {
                 gameManager.playerFound = true;
 
                 enemy_Move.SetDestination(player.transform.position);
+
+                interestTimer = 5f;
             }
         }
         else

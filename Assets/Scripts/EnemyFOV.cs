@@ -15,8 +15,6 @@ public class EnemyFOV : MonoBehaviour
     public MeshFilter viewMeshFilter;
     Mesh viewMesh;
 
-    //public GameObject lineOfSight;
-
     [Header("Parameters")]
     public float viewRad;
     [Range(0, 360)]
@@ -93,7 +91,6 @@ public class EnemyFOV : MonoBehaviour
             float angle = transform.eulerAngles.y - viewAng / 2 + stepAngle * i;
             ViewCastInfo newViewCast = ViewCast(angle);
             viewPoints.Add(newViewCast.point);
-            //Debug.DrawLine(transform.position, transform.position + angleDir(angle, true) * viewRad, Color.red);
         }
 
         int vertexCount = viewPoints.Count + 1;
@@ -122,10 +119,7 @@ public class EnemyFOV : MonoBehaviour
     void FindPlayer()
     {
         foundPlayer.Clear();
-        //enemy_Move.Stop();
-        enemy.enemy_Move.ResetPath();
-        //if (enemy.isHostile) enemy.enemy_Move.ResetPath();
-        //enemy.isHostile = false;
+        //enemy.enemy_Move.ResetPath();
         
         Collider[] playerInView = Physics.OverlapSphere(transform.position, viewRad);
 

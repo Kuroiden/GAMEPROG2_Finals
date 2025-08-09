@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "F:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F1340D78-F3B7-A1BF-9F04-F40F2A491C82}|Assembly-CSharp.csproj|f:\\main storage\\school stuff\\gamprog2\\gamprog2_finals\\assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F1340D78-F3B7-A1BF-9F04-F40F2A491C82}|Assembly-CSharp.csproj|f:\\main storage\\school stuff\\gamprog2\\gamprog2_finals\\assets\\scripts\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1340D78-F3B7-A1BF-9F04-F40F2A491C82}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1340D78-F3B7-A1BF-9F04-F40F2A491C82}|Assembly-CSharp.csproj|F:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1340D78-F3B7-A1BF-9F04-F40F2A491C82}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,28 +15,35 @@
       "RelativeMoniker": "D:0:0:{F1340D78-F3B7-A1BF-9F04-F40F2A491C82}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F1340D78-F3B7-A1BF-9F04-F40F2A491C82}|Assembly-CSharp.csproj|F:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\assets\\scripts\\enemyattack_melee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1340D78-F3B7-A1BF-9F04-F40F2A491C82}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyattack_melee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1340D78-F3B7-A1BF-9F04-F40F2A491C82}|Assembly-CSharp.csproj|F:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\assets\\scripts\\enemyattack_ranged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1340D78-F3B7-A1BF-9F04-F40F2A491C82}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyattack_ranged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F1340D78-F3B7-A1BF-9F04-F40F2A491C82}|Assembly-CSharp.csproj|F:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\assets\\scripts\\enemyfov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1340D78-F3B7-A1BF-9F04-F40F2A491C82}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyfov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{217351E7-D118-F360-CD9D-5C55D8F96B3A}|Assembly-CSharp-Editor.csproj|F:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\assets\\editor\\fov_editor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{217351E7-D118-F360-CD9D-5C55D8F96B3A}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\editor\\fov_editor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Main Storage\\School Stuff\\LEVELDES\\DelaCruz_Gorgonio_Malinis_Q\\Assets\\Scripts\\Evidence_redstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F1340D78-F3B7-A1BF-9F04-F40F2A491C82}|Assembly-CSharp.csproj|F:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1340D78-F3B7-A1BF-9F04-F40F2A491C82}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1340D78-F3B7-A1BF-9F04-F40F2A491C82}|Assembly-CSharp.csproj|F:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\assets\\scripts\\aiawaketrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1340D78-F3B7-A1BF-9F04-F40F2A491C82}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\aiawaketrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F1340D78-F3B7-A1BF-9F04-F40F2A491C82}|Assembly-CSharp.csproj|F:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\assets\\scripts\\aimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1340D78-F3B7-A1BF-9F04-F40F2A491C82}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\aimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA00B52E-D64E-2898-D8AD-527BAB1AA7BE}|Assembly-CSharp.Player.csproj|F:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\assets\\scripts\\enemyfollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA00B52E-D64E-2898-D8AD-527BAB1AA7BE}|Assembly-CSharp.Player.csproj|solutionrelative:assets\\scripts\\enemyfollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{217351E7-D118-F360-CD9D-5C55D8F96B3A}|Assembly-CSharp-Editor.csproj|F:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\assets\\editor\\fov_editor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{217351E7-D118-F360-CD9D-5C55D8F96B3A}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\editor\\fov_editor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1340D78-F3B7-A1BF-9F04-F40F2A491C82}|Assembly-CSharp.csproj|F:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\assets\\scripts\\aiawaketrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1340D78-F3B7-A1BF-9F04-F40F2A491C82}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\aiawaketrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,23 +53,94 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Item.cs",
+              "DocumentMoniker": "F:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Assets\\Scripts\\Item.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Item.cs",
+              "ToolTip": "F:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Assets\\Scripts\\Item.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Item.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwDYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T03:05:14.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Evidence_redstring.cs",
+              "DocumentMoniker": "E:\\Main Storage\\School Stuff\\LEVELDES\\DelaCruz_Gorgonio_Malinis_Q\\Assets\\Scripts\\Evidence_redstring.cs",
+              "ToolTip": "E:\\Main Storage\\School Stuff\\LEVELDES\\DelaCruz_Gorgonio_Malinis_Q\\Assets\\Scripts\\Evidence_redstring.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAHgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T06:46:27.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnemyAttack_Ranged.cs",
+              "DocumentMoniker": "F:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Assets\\Scripts\\EnemyAttack_Ranged.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyAttack_Ranged.cs",
+              "ToolTip": "F:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Assets\\Scripts\\EnemyAttack_Ranged.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyAttack_Ranged.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wBYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T04:33:09.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "EnemyFOV.cs",
               "DocumentMoniker": "F:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Assets\\Scripts\\EnemyFOV.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyFOV.cs",
               "ToolTip": "F:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Assets\\Scripts\\EnemyFOV.cs",
               "RelativeToolTip": "Assets\\Scripts\\EnemyFOV.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAAwGQAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-24T09:16:41.525Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "F:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Assets\\Scripts\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy.cs",
+              "ToolTip": "F:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Assets\\Scripts\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T01:02:40.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnemyAttack_Melee.cs",
+              "DocumentMoniker": "F:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Assets\\Scripts\\EnemyAttack_Melee.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyAttack_Melee.cs",
+              "ToolTip": "F:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Assets\\Scripts\\EnemyAttack_Melee.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyAttack_Melee.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T04:33:04.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FOV_Editor.cs",
+              "DocumentMoniker": "F:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Assets\\Editor\\FOV_Editor.cs",
+              "RelativeDocumentMoniker": "Assets\\Editor\\FOV_Editor.cs",
+              "ToolTip": "F:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Assets\\Editor\\FOV_Editor.cs",
+              "RelativeToolTip": "Assets\\Editor\\FOV_Editor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T01:30:14.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "AIManager.cs",
               "DocumentMoniker": "F:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Assets\\Scripts\\AIManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\AIManager.cs",
@@ -70,32 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Enemy.cs",
-              "DocumentMoniker": "F:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Assets\\Scripts\\Enemy.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy.cs",
-              "ToolTip": "F:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Assets\\Scripts\\Enemy.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Enemy.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAAwCYAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T01:02:40.416Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "EnemyFollow.cs",
-              "DocumentMoniker": "F:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Assets\\Scripts\\EnemyFollow.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyFollow.cs",
-              "ToolTip": "F:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Assets\\Scripts\\EnemyFollow.cs",
-              "RelativeToolTip": "Assets\\Scripts\\EnemyFollow.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T14:33:26.742Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "GameManager.cs",
               "DocumentMoniker": "F:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Assets\\Scripts\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
@@ -107,7 +164,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "F:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Assets\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
+              "ToolTip": "F:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Assets\\Scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T03:50:04.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "AIAwakeTrigger.cs",
               "DocumentMoniker": "F:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Assets\\Scripts\\AIAwakeTrigger.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\AIAwakeTrigger.cs",
@@ -116,30 +185,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-24T02:59:45.672Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Player.cs",
-              "DocumentMoniker": "F:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Assets\\Scripts\\Player.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
-              "ToolTip": "F:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Assets\\Scripts\\Player.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Player.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T03:50:04.574Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FOV_Editor.cs",
-              "DocumentMoniker": "F:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Assets\\Editor\\FOV_Editor.cs",
-              "RelativeDocumentMoniker": "Assets\\Editor\\FOV_Editor.cs",
-              "ToolTip": "F:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Assets\\Editor\\FOV_Editor.cs",
-              "RelativeToolTip": "Assets\\Editor\\FOV_Editor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T01:30:14.695Z"
             }
           ]
         }
