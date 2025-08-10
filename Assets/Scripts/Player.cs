@@ -9,11 +9,15 @@ public class Player : MonoBehaviour
 
     [Header("Game Objects")]
     CharacterController PlayerCtrl;
+    public Text Ammo_Txt;
+    public Text HP_Txt;
     public Camera PlayerCam;
     public Slider Stamina;
-    public GameObject[] HealthOverlay;
-    public GameObject Win;
-    public GameObject Lose;
+    public GameObject[] HealthOverlay = new GameObject[5];
+    public GameObject[] movementIcon = new GameObject[3];
+    public GameObject[] weaponIcon = new GameObject[2];
+    public GameObject pistol;
+    public GameObject knife;
 
     [Header("Player Movement")]
     public bool canMove;
@@ -49,18 +53,34 @@ public class Player : MonoBehaviour
 
     Vector3 defaultCamPos;
 
+    [Header("Weapon Settings")]
+    public float attackRange = 2f;
+    public int damage = 50;
+    public float attackCooldown = 0.8f;
+    public LayerMask enemyLayers;
+
+    public Transform attackPoint; // Where the knife "hits" from
+    private float nextAttackTime = 0f;
+
+    bool toggleKnife;
+    
+    public Rigidbody bullet;
+    public float bulletSpeed;
+
     [Header("Player Stats")]
     public int HP = 5;
     public int MaxStamina;
-    public int CurrStamina;
+    public float CurrStamina;
     public int Ammo;
 
     [Header("Player Win/Lose")]
     public bool p_Win = false;
     public bool p_Lose = false;
 
-    void Start()
+    void Awake()
     {
+        toggleKnife = false;
+
         PlayerCtrl = GetComponent<CharacterController>();
 
         Cursor.lockState = CursorLockMode.Locked;
@@ -76,10 +96,25 @@ public class Player : MonoBehaviour
 
     void Update()
     {
+        Ammo_Txt.text = Ammo.ToString();
+        HP_Txt.text = HP.ToString();
+
         Vector3 playerForward = transform.TransformDirection(Vector3.forward);
         Vector3 playerRight = transform.TransformDirection(Vector3.right);
-        float playerVeloX = canMove ? playerSpd * Input.GetAxis("Vertical") : 0.0f;
-        float playerVeloZ = canMove ? playerSpd * Input.GetAxis("Horizontal") : 0.0f;
+
+        // Move character
+        bool isRunning = Input.GetKey(KeyCode.LeftShift);
+        if (isRunning && CurrStamina > 0)
+        {
+            CurrStamina -= Time.deltaTime;
+        }
+        else if (!isRunning && CurrStamina < MaxStamina) CurrStamina += Time.deltaTime * 1.5f;
+
+        if (isRunning & CurrStamina <= 0) isRunning = false;
+
+        Stamina.value = CurrStamina;
+        float playerVeloX = canMove ? (isRunning ? playerSpd * 1.5f : playerSpd) * Input.GetAxis("Vertical") : 0.0f;
+        float playerVeloZ = canMove ? (isRunning ? playerSpd * 1.5f : playerSpd) * Input.GetAxis("Horizontal") : 0.0f;
 
         if (!PlayerCtrl.isGrounded)
             updatePos.y -= gravity * Time.deltaTime;
@@ -141,29 +176,39 @@ public class Player : MonoBehaviour
                 break;
         }
 
-        if (p_Win || p_Lose)
-        {
-            canMove = false;
-
-            if (p_Win) Win.SetActive(true);
-            else if (p_Lose) Lose.SetActive(true);
-
-            if (Input.GetKey(KeyCode.R))
-            {
-                p_Lose = false;
-                p_Win = false;
-            }
-        }
-        else
-        {
-            canMove = true;
-
-            Win.SetActive(false);
-            Lose.SetActive(false);
-        }
+        if (p_Win || p_Lose) canMove = false;
+        else canMove = true;
 
         if (canMove)
         {
+            // Updates movement state icon
+            int moveState = 0;
+
+            if (isRunning) moveState = 1;
+            else if (isCrouching) moveState = 2;
+            else moveState = 0;
+
+            switch (moveState)
+            {
+                case 0:
+                    movementIcon[0].SetActive(true);
+                    movementIcon[1].SetActive(false);
+                    movementIcon[2].SetActive(false);
+                    break;
+
+                case 1:
+                    movementIcon[0].SetActive(false);
+                    movementIcon[1].SetActive(true);
+                    movementIcon[2].SetActive(false);
+                    break;
+
+                case 2:
+                    movementIcon[0].SetActive(false);
+                    movementIcon[1].SetActive(false);
+                    movementIcon[2].SetActive(true);
+                    break;
+            }
+
             // Mouse Look Up/Down
             rotationX += -Input.GetAxis("Mouse Y") * camSensitivity;
             rotationX = Mathf.Clamp(rotationX, -rotationXLimit, rotationXLimit);
@@ -223,8 +268,72 @@ public class Player : MonoBehaviour
             // Rotate Player Left/Right
             transform.rotation *= Quaternion.Euler(0.0f, Input.GetAxis("Mouse X") * camSensitivity, 0.0f);
 
+            if (Input.GetKeyDown(KeyCode.X)) toggleKnife = !toggleKnife;
+            
+            playerAttack();
+
             // Move
             PlayerCtrl.Move(updatePos * Time.deltaTime);
         }
+    }
+
+    void playerAttack()
+    {
+        if (toggleKnife) {
+            weaponIcon[0].SetActive(false);
+            weaponIcon[1].SetActive(true);
+
+            pistol.SetActive(false);
+            knife.SetActive(true);
+
+            // Knife attack
+            if (Time.time >= nextAttackTime)
+            {
+                if (Input.GetKeyDown(KeyCode.Mouse0))
+                {
+                    KnifeAttack();
+                    nextAttackTime = Time.time + attackCooldown;
+                }
+            }
+        }
+        else
+        {
+            weaponIcon[0].SetActive(true);
+            weaponIcon[1].SetActive(false);
+
+            pistol.SetActive(true);
+            knife.SetActive(false);
+
+            if (Ammo > 0)
+            {
+                if (Input.GetKeyDown(KeyCode.Mouse0))
+                {
+                    Ammo--;
+                    Rigidbody instantiatedProjectile = Instantiate(bullet, attackPoint.transform.position, attackPoint.transform.rotation);
+                    instantiatedProjectile.velocity = transform.TransformDirection(new Vector3(0, 0, bulletSpeed));
+                }
+            }
+        }
+    }
+
+    void KnifeAttack()
+    {
+        // Detect enemies in range
+        Collider[] hitEnemies = Physics.OverlapSphere(attackPoint.position, attackRange, enemyLayers);
+
+        foreach (Collider enemy in hitEnemies)
+        {
+            // Apply damage
+            Enemy health = enemy.GetComponent<Enemy>();
+            if (health != null)
+                health.e_HP -= 1;
+        }
+    }
+
+    void OnDrawGizmosSelected()
+    {
+        if (attackPoint == null) return;
+        Gizmos.color = Color.red;
+        Gizmos.DrawWireSphere(attackPoint.position, attackRange);
     }
 }

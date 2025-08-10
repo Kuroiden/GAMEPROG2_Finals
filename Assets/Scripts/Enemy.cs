@@ -27,6 +27,8 @@ public class Enemy : MonoBehaviour
 
     public float interestTimer;
 
+    public int e_HP = 5;
+
     void Start()
     {
         fov = this.GetComponent<EnemyFOV>();
@@ -48,41 +50,53 @@ public class Enemy : MonoBehaviour
 
     void Update()
     {
-        if (aiManager.isAIAwake)
+        if (e_HP > 0)
         {
-            if (!enemy_Move.pathPending && enemy_Move.remainingDistance < distance)
+            if (aiManager.isAIAwake)
+            {
+                if (!enemy_Move.pathPending && enemy_Move.remainingDistance < distance)
+                {
+                    gameManager.playerFound = false;
+
+                    if (fov.foundPlayer.Count == 0)
+                    {
+                        if (interestTimer > 0)
+                        {
+                            interestTimer -= Time.deltaTime;
+                            enemy_Move.ResetPath();
+                        }
+                        else if (interestTimer <= 0)
+                        {
+                            MoveDestination();
+                            interestTimer = 0;
+                        }
+                    }
+
+                }
+                else if (fov.foundPlayer.Count != 0)
+                {
+                    gameManager.playerFound = true;
+
+                    enemy_Move.SetDestination(player.transform.position);
+
+                    interestTimer = 5f;
+                }
+            }
+            else
             {
                 gameManager.playerFound = false;
 
-                if (fov.foundPlayer.Count == 0)
-                {
-                    if (interestTimer > 0)
-                    {
-                        interestTimer -= Time.deltaTime;
-                        enemy_Move.ResetPath();
-                    }
-                    else if (interestTimer <= 0)
-                    {
-                        MoveDestination();
-                        interestTimer = 0;
-                    }
-                }
-                
-            }
-            else if (fov.foundPlayer.Count != 0)
-            {
-                gameManager.playerFound = true;
-
-                enemy_Move.SetDestination(player.transform.position);
-
-                interestTimer = 5f;
+                enemy_Move.autoBraking = true;
             }
         }
         else
         {
-            gameManager.playerFound = false;
+            enemy_Move.ResetPath();
+            float enemyFall = this.gameObject.transform.position.y - 1f;
 
-            enemy_Move.autoBraking = true;
+            this.gameObject.transform.position = new Vector3(this.gameObject.transform.position.x, enemyFall, this.gameObject.transform.position.z);
+
+            if (this.gameObject.transform.position.y < -3f) Destroy(this);
         }
     }
     void MoveDestination()

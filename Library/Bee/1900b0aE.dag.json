@@ -633,7 +633,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 107,
       "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "F:\\Main Storage\\School Stuff\\G",
+      "PayloadDebugContentSnippet": "D:\\Main Storage\\School Stuff\\G",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEngine.TestRunner.UnityAdditionalFile.txt"
@@ -659,7 +659,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 44724,
       "PayloadLength": 66,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Main Storage\\Scho",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Main Storage\\Scho",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEngine.TestRunner.rsp2"
@@ -2748,7 +2748,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 52353,
       "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "F:\\Main Storage\\School Stuff\\G",
+      "PayloadDebugContentSnippet": "D:\\Main Storage\\School Stuff\\G",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.UnityAdditionalFile.txt"
@@ -2774,7 +2774,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 92456,
       "PayloadLength": 66,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Main Storage\\Scho",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Main Storage\\Scho",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.rsp2"
@@ -3454,7 +3454,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 100717,
       "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "F:\\Main Storage\\School Stuff\\G",
+      "PayloadDebugContentSnippet": "D:\\Main Storage\\School Stuff\\G",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEditor.TestRunner.UnityAdditionalFile.txt"
@@ -3480,7 +3480,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 151394,
       "PayloadLength": 66,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Main Storage\\Scho",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Main Storage\\Scho",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEditor.TestRunner.rsp2"
@@ -4145,7 +4145,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 159189,
       "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "F:\\Main Storage\\School Stuff\\G",
+      "PayloadDebugContentSnippet": "D:\\Main Storage\\School Stuff\\G",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.UnityAdditionalFile.txt"
@@ -4171,7 +4171,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 196434,
       "PayloadLength": 66,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Main Storage\\Scho",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Main Storage\\Scho",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.rsp2"
@@ -4753,7 +4753,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 205028,
       "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "F:\\Main Storage\\School Stuff\\G",
+      "PayloadDebugContentSnippet": "D:\\Main Storage\\School Stuff\\G",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/MerryYellow.CodeAssist.Editor.UnityAdditionalFile.txt"
@@ -4779,7 +4779,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 241742,
       "PayloadLength": 66,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Main Storage\\Scho",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Main Storage\\Scho",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/MerryYellow.CodeAssist.Editor.rsp2"
@@ -5342,7 +5342,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 250441,
       "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "F:\\Main Storage\\School Stuff\\G",
+      "PayloadDebugContentSnippet": "D:\\Main Storage\\School Stuff\\G",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.Editor.ConversionSystem.UnityAdditionalFile.txt"
@@ -5368,7 +5368,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 285779,
       "PayloadLength": 66,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Main Storage\\Scho",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Main Storage\\Scho",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.Editor.ConversionSystem.rsp2"
@@ -5890,7 +5890,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 294468,
       "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "F:\\Main Storage\\School Stuff\\G",
+      "PayloadDebugContentSnippet": "D:\\Main Storage\\School Stuff\\G",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.UnityAdditionalFile.txt"
@@ -5916,7 +5916,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 327952,
       "PayloadLength": 66,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Main Storage\\Scho",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Main Storage\\Scho",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.rsp2"
@@ -6419,7 +6419,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 336359,
       "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "F:\\Main Storage\\School Stuff\\G",
+      "PayloadDebugContentSnippet": "D:\\Main Storage\\School Stuff\\G",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Burst.UnityAdditionalFile.txt"
@@ -6445,7 +6445,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 371586,
       "PayloadLength": 66,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Main Storage\\Scho",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Main Storage\\Scho",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Burst.rsp2"
@@ -6982,7 +6982,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 379447,
       "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "F:\\Main Storage\\School Stuff\\G",
+      "PayloadDebugContentSnippet": "D:\\Main Storage\\School Stuff\\G",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.EditorCoroutines.Editor.UnityAdditionalFile.txt"
@@ -7008,7 +7008,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 414176,
       "PayloadLength": 66,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Main Storage\\Scho",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Main Storage\\Scho",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.EditorCoroutines.Editor.rsp2"
@@ -7525,7 +7525,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 422849,
       "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "F:\\Main Storage\\School Stuff\\G",
+      "PayloadDebugContentSnippet": "D:\\Main Storage\\School Stuff\\G",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Mathematics.UnityAdditionalFile.txt"
@@ -7551,7 +7551,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 463491,
       "PayloadLength": 66,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Main Storage\\Scho",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Main Storage\\Scho",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Mathematics.rsp2"
@@ -8138,7 +8138,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 471926,
       "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "F:\\Main Storage\\School Stuff\\G",
+      "PayloadDebugContentSnippet": "D:\\Main Storage\\School Stuff\\G",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.UnityAdditionalFile.txt"
@@ -8164,7 +8164,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 509423,
       "PayloadLength": 66,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Main Storage\\Scho",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Main Storage\\Scho",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.rsp2"
@@ -8710,7 +8710,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 518114,
       "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "F:\\Main Storage\\School Stuff\\G",
+      "PayloadDebugContentSnippet": "D:\\Main Storage\\School Stuff\\G",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.UnityAdditionalFile.txt"
@@ -8736,7 +8736,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 583771,
       "PayloadLength": 66,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Main Storage\\Scho",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Main Storage\\Scho",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.rsp2"
@@ -9569,7 +9569,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 591894,
       "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "F:\\Main Storage\\School Stuff\\G",
+      "PayloadDebugContentSnippet": "D:\\Main Storage\\School Stuff\\G",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Rider.Editor.UnityAdditionalFile.txt"
@@ -9595,7 +9595,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 627989,
       "PayloadLength": 66,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Main Storage\\Scho",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Main Storage\\Scho",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Rider.Editor.rsp2"
@@ -10117,7 +10117,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 636023,
       "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "F:\\Main Storage\\School Stuff\\G",
+      "PayloadDebugContentSnippet": "D:\\Main Storage\\School Stuff\\G",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Settings.Editor.UnityAdditionalFile.txt"
@@ -10143,7 +10143,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 671443,
       "PayloadLength": 66,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Main Storage\\Scho",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Main Storage\\Scho",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Settings.Editor.rsp2"
@@ -10669,7 +10669,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 680142,
       "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "F:\\Main Storage\\School Stuff\\G",
+      "PayloadDebugContentSnippet": "D:\\Main Storage\\School Stuff\\G",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.UnityAdditionalFile.txt"
@@ -10695,7 +10695,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 716381,
       "PayloadLength": 66,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Main Storage\\Scho",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Main Storage\\Scho",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.rsp2"
@@ -11223,7 +11223,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 725120,
       "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "F:\\Main Storage\\School Stuff\\G",
+      "PayloadDebugContentSnippet": "D:\\Main Storage\\School Stuff\\G",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.UnityAdditionalFile.txt"
@@ -11249,7 +11249,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 760163,
       "PayloadLength": 66,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Main Storage\\Scho",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Main Storage\\Scho",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.rsp2"
@@ -11766,7 +11766,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 768868,
       "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "F:\\Main Storage\\School Stuff\\G",
+      "PayloadDebugContentSnippet": "D:\\Main Storage\\School Stuff\\G",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.UnityAdditionalFile.txt"
@@ -11792,7 +11792,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 807130,
       "PayloadLength": 66,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Main Storage\\Scho",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Main Storage\\Scho",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.rsp2"
@@ -12349,7 +12349,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 815538,
       "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "F:\\Main Storage\\School Stuff\\G",
+      "PayloadDebugContentSnippet": "D:\\Main Storage\\School Stuff\\G",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.UnityAdditionalFile.txt"
@@ -12375,7 +12375,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 854827,
       "PayloadLength": 66,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Main Storage\\Scho",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Main Storage\\Scho",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.rsp2"
@@ -12946,7 +12946,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 863237,
       "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "F:\\Main Storage\\School Stuff\\G",
+      "PayloadDebugContentSnippet": "D:\\Main Storage\\School Stuff\\G",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.UnityAdditionalFile.txt"
@@ -12972,7 +12972,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 898306,
       "PayloadLength": 66,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Main Storage\\Scho",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Main Storage\\Scho",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.rsp2"
@@ -13493,7 +13493,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 906978,
       "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "F:\\Main Storage\\School Stuff\\G",
+      "PayloadDebugContentSnippet": "D:\\Main Storage\\School Stuff\\G",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.UnityAdditionalFile.txt"
@@ -13519,7 +13519,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 993786,
       "PayloadLength": 66,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Main Storage\\Scho",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Main Storage\\Scho",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.rsp2"
@@ -14446,7 +14446,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1002214,
       "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "F:\\Main Storage\\School Stuff\\G",
+      "PayloadDebugContentSnippet": "D:\\Main Storage\\School Stuff\\G",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualStudio.Editor.UnityAdditionalFile.txt"
@@ -14472,7 +14472,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1038606,
       "PayloadLength": 66,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Main Storage\\Scho",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Main Storage\\Scho",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualStudio.Editor.rsp2"
@@ -14999,7 +14999,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1046643,
       "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "F:\\Main Storage\\School Stuff\\G",
+      "PayloadDebugContentSnippet": "D:\\Main Storage\\School Stuff\\G",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/glTFast.Animation.UnityAdditionalFile.txt"
@@ -15025,7 +15025,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1078093,
       "PayloadLength": 66,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Main Storage\\Scho",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Main Storage\\Scho",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/glTFast.Animation.rsp2"
@@ -15495,7 +15495,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1085895,
       "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "F:\\Main Storage\\School Stuff\\G",
+      "PayloadDebugContentSnippet": "D:\\Main Storage\\School Stuff\\G",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.Editor.UnityAdditionalFile.txt"
@@ -15521,7 +15521,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1121348,
       "PayloadLength": 66,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Main Storage\\Scho",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Main Storage\\Scho",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.Editor.rsp2"
@@ -16089,7 +16089,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1130206,
       "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "F:\\Main Storage\\School Stuff\\G",
+      "PayloadDebugContentSnippet": "D:\\Main Storage\\School Stuff\\G",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Burst.CodeGen.UnityAdditionalFile.txt"
@@ -16115,7 +16115,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1163359,
       "PayloadLength": 66,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Main Storage\\Scho",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Main Storage\\Scho",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Burst.CodeGen.rsp2"
@@ -16699,7 +16699,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1171548,
       "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "F:\\Main Storage\\School Stuff\\G",
+      "PayloadDebugContentSnippet": "D:\\Main Storage\\School Stuff\\G",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Burst.Editor.UnityAdditionalFile.txt"
@@ -16725,7 +16725,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1207425,
       "PayloadLength": 66,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Main Storage\\Scho",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Main Storage\\Scho",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Burst.Editor.rsp2"
@@ -17261,7 +17261,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1216167,
       "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "F:\\Main Storage\\School Stuff\\G",
+      "PayloadDebugContentSnippet": "D:\\Main Storage\\School Stuff\\G",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.CollabProxy.Editor.UnityAdditionalFile.txt"
@@ -17287,7 +17287,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1250672,
       "PayloadLength": 66,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Main Storage\\Scho",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Main Storage\\Scho",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.CollabProxy.Editor.rsp2"
@@ -17823,7 +17823,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1259425,
       "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "F:\\Main Storage\\School Stuff\\G",
+      "PayloadDebugContentSnippet": "D:\\Main Storage\\School Stuff\\G",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Collections.UnityAdditionalFile.txt"
@@ -17849,7 +17849,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1297599,
       "PayloadLength": 66,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Main Storage\\Scho",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Main Storage\\Scho",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Collections.rsp2"
@@ -18429,7 +18429,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1306169,
       "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "F:\\Main Storage\\School Stuff\\G",
+      "PayloadDebugContentSnippet": "D:\\Main Storage\\School Stuff\\G",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Mathematics.Editor.UnityAdditionalFile.txt"
@@ -18455,7 +18455,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1340988,
       "PayloadLength": 66,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Main Storage\\Scho",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Main Storage\\Scho",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Mathematics.Editor.rsp2"
@@ -18976,7 +18976,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1349753,
       "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "F:\\Main Storage\\School Stuff\\G",
+      "PayloadDebugContentSnippet": "D:\\Main Storage\\School Stuff\\G",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.UnityAdditionalFile.txt"
@@ -19002,7 +19002,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1387544,
       "PayloadLength": 66,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Main Storage\\Scho",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Main Storage\\Scho",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.rsp2"
@@ -19599,7 +19599,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1395917,
       "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "F:\\Main Storage\\School Stuff\\G",
+      "PayloadDebugContentSnippet": "D:\\Main Storage\\School Stuff\\G",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.UnityAdditionalFile.txt"
@@ -19625,7 +19625,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1434750,
       "PayloadLength": 66,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Main Storage\\Scho",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Main Storage\\Scho",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.rsp2"
@@ -20208,7 +20208,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1443501,
       "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "F:\\Main Storage\\School Stuff\\G",
+      "PayloadDebugContentSnippet": "D:\\Main Storage\\School Stuff\\G",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.Editor.UnityAdditionalFile.txt"
@@ -20234,7 +20234,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1501943,
       "PayloadLength": 66,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Main Storage\\Scho",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Main Storage\\Scho",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.Editor.rsp2"
@@ -21041,7 +21041,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1510700,
       "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "F:\\Main Storage\\School Stuff\\G",
+      "PayloadDebugContentSnippet": "D:\\Main Storage\\School Stuff\\G",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.Editor.UnityAdditionalFile.txt"
@@ -21067,7 +21067,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1601634,
       "PayloadLength": 66,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Main Storage\\Scho",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Main Storage\\Scho",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.Editor.rsp2"
@@ -22072,7 +22072,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1610408,
       "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "F:\\Main Storage\\School Stuff\\G",
+      "PayloadDebugContentSnippet": "D:\\Main Storage\\School Stuff\\G",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.UnityAdditionalFile.txt"
@@ -22098,7 +22098,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1692519,
       "PayloadLength": 66,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Main Storage\\Scho",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Main Storage\\Scho",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.rsp2"
@@ -23002,7 +23002,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1701037,
       "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "F:\\Main Storage\\School Stuff\\G",
+      "PayloadDebugContentSnippet": "D:\\Main Storage\\School Stuff\\G",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.Updater.UnityAdditionalFile.txt"
@@ -23028,7 +23028,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1736111,
       "PayloadLength": 66,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Main Storage\\Scho",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Main Storage\\Scho",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.Updater.rsp2"
@@ -23576,7 +23576,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1745078,
       "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "F:\\Main Storage\\School Stuff\\G",
+      "PayloadDebugContentSnippet": "D:\\Main Storage\\School Stuff\\G",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Collections.BurstCompatibilityGen.UnityAdditionalFile.txt"
@@ -23602,7 +23602,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1779755,
       "PayloadLength": 66,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Main Storage\\Scho",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Main Storage\\Scho",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Collections.BurstCompatibilityGen.rsp2"
@@ -24142,7 +24142,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1788605,
       "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "F:\\Main Storage\\School Stuff\\G",
+      "PayloadDebugContentSnippet": "D:\\Main Storage\\School Stuff\\G",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Collections.DocCodeSamples.UnityAdditionalFile.txt"
@@ -24168,7 +24168,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1823260,
       "PayloadLength": 66,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Main Storage\\Scho",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Main Storage\\Scho",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Collections.DocCodeSamples.rsp2"
@@ -24687,7 +24687,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1832031,
       "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "F:\\Main Storage\\School Stuff\\G",
+      "PayloadDebugContentSnippet": "D:\\Main Storage\\School Stuff\\G",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.Editor.UnityAdditionalFile.txt"
@@ -24713,7 +24713,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1886823,
       "PayloadLength": 66,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Main Storage\\Scho",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Main Storage\\Scho",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.Editor.rsp2"
@@ -25443,7 +25443,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1895781,
       "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "F:\\Main Storage\\School Stuff\\G",
+      "PayloadDebugContentSnippet": "D:\\Main Storage\\School Stuff\\G",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.UnityAdditionalFile.txt"
@@ -25469,7 +25469,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1932273,
       "PayloadLength": 66,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Main Storage\\Scho",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Main Storage\\Scho",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.rsp2"
@@ -26006,7 +26006,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1940860,
       "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "F:\\Main Storage\\School Stuff\\G",
+      "PayloadDebugContentSnippet": "D:\\Main Storage\\School Stuff\\G",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/glTFast.UnityAdditionalFile.txt"
@@ -26032,7 +26032,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1989440,
       "PayloadLength": 66,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Main Storage\\Scho",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Main Storage\\Scho",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/glTFast.rsp2"
@@ -26704,7 +26704,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1998100,
       "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "F:\\Main Storage\\School Stuff\\G",
+      "PayloadDebugContentSnippet": "D:\\Main Storage\\School Stuff\\G",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.UnityAdditionalFile.txt"
@@ -26730,7 +26730,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2034121,
       "PayloadLength": 66,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Main Storage\\Scho",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Main Storage\\Scho",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.rsp2"
@@ -27309,7 +27309,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2043282,
       "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "F:\\Main Storage\\School Stuff\\G",
+      "PayloadDebugContentSnippet": "D:\\Main Storage\\School Stuff\\G",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.Editor.UnityAdditionalFile.txt"
@@ -27335,7 +27335,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2086050,
       "PayloadLength": 66,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Main Storage\\Scho",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Main Storage\\Scho",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.Editor.rsp2"
@@ -27936,7 +27936,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2095180,
       "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "F:\\Main Storage\\School Stuff\\G",
+      "PayloadDebugContentSnippet": "D:\\Main Storage\\School Stuff\\G",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/glTFast.Export.UnityAdditionalFile.txt"
@@ -27962,7 +27962,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2132098,
       "PayloadLength": 66,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Main Storage\\Scho",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Main Storage\\Scho",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/glTFast.Export.rsp2"
@@ -28507,7 +28507,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2140659,
       "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "F:\\Main Storage\\School Stuff\\G",
+      "PayloadDebugContentSnippet": "D:\\Main Storage\\School Stuff\\G",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/glTFast.Newtonsoft.UnityAdditionalFile.txt"
@@ -28533,7 +28533,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2177873,
       "PayloadLength": 66,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Main Storage\\Scho",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Main Storage\\Scho",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/glTFast.Newtonsoft.rsp2"
@@ -29072,7 +29072,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2186280,
       "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "F:\\Main Storage\\School Stuff\\G",
+      "PayloadDebugContentSnippet": "D:\\Main Storage\\School Stuff\\G",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/glTFast.dots.UnityAdditionalFile.txt"
@@ -29098,7 +29098,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2219767,
       "PayloadLength": 66,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Main Storage\\Scho",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Main Storage\\Scho",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/glTFast.dots.rsp2"
@@ -29612,7 +29612,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2228422,
       "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "F:\\Main Storage\\School Stuff\\G",
+      "PayloadDebugContentSnippet": "D:\\Main Storage\\School Stuff\\G",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Shared.Editor.UnityAdditionalFile.txt"
@@ -29638,7 +29638,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2263404,
       "PayloadLength": 66,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Main Storage\\Scho",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Main Storage\\Scho",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Shared.Editor.rsp2"
@@ -30194,7 +30194,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2272647,
       "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "F:\\Main Storage\\School Stuff\\G",
+      "PayloadDebugContentSnippet": "D:\\Main Storage\\School Stuff\\G",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/glTFast.Documentation.Examples.UnityAdditionalFile.txt"
@@ -30220,7 +30220,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2306833,
       "PayloadLength": 66,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Main Storage\\Scho",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Main Storage\\Scho",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/glTFast.Documentation.Examples.rsp2"
@@ -30737,7 +30737,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2315333,
       "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "F:\\Main Storage\\School Stuff\\G",
+      "PayloadDebugContentSnippet": "D:\\Main Storage\\School Stuff\\G",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/glTFast.Editor.UnityAdditionalFile.txt"
@@ -30763,7 +30763,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2351547,
       "PayloadLength": 66,
-      "PayloadDebugContentSnippet": "/pathmap:\"F:\\Main Storage\\Scho",
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Main Storage\\Scho",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/glTFast.Editor.rsp2"
@@ -31303,7 +31303,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2360282,
       "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "F:\\Main Storage\\School Stuff\\G",
+      "PayloadDebugContentSnippet": "D:\\Main Storage\\School Stuff\\G",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.UnityAdditionalFile.txt"
@@ -31315,7 +31315,7 @@
       "DisplayName": "Writing Assembly-CSharp.rsp",
       "ActionType": "WriteFile",
       "PayloadOffset": 2360421,
-      "PayloadLength": 33707,
+      "PayloadLength": 33734,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
       "Outputs": [
@@ -31327,7 +31327,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.rsp2",
       "DisplayName": "Writing Assembly-CSharp.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 2394215,
+      "PayloadOffset": 2394242,
       "PayloadLength": 0,
       "PayloadDebugContentSnippet": "",
       "Inputs": [],
@@ -31587,6 +31587,7 @@
         "Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll",
         "Assets/Scripts/AIAwakeTrigger.cs",
         "Assets/Scripts/AIManager.cs",
+        "Assets/Scripts/Bullet.cs",
         "Assets/Scripts/Enemy.cs",
         "Assets/Scripts/EnemyAttack_Melee.cs",
         "Assets/Scripts/EnemyAttack_Ranged.cs",
@@ -31899,7 +31900,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll.mvfrm.rsp",
       "DisplayName": "Writing Assembly-CSharp.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 2394311,
+      "PayloadOffset": 2394338,
       "PayloadLength": 10220,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -32164,9 +32165,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Assembly-CSharp-Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 2404644,
+      "PayloadOffset": 2404671,
       "PayloadLength": 53,
-      "PayloadDebugContentSnippet": "F:\\Main Storage\\School Stuff\\G",
+      "PayloadDebugContentSnippet": "D:\\Main Storage\\School Stuff\\G",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-Editor.UnityAdditionalFile.txt"
@@ -32177,7 +32178,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-Editor.rsp",
       "DisplayName": "Writing Assembly-CSharp-Editor.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 2404790,
+      "PayloadOffset": 2404817,
       "PayloadLength": 36740,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -32190,7 +32191,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-Editor.rsp2",
       "DisplayName": "Writing Assembly-CSharp-Editor.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 2441624,
+      "PayloadOffset": 2441651,
       "PayloadLength": 0,
       "PayloadDebugContentSnippet": "",
       "Inputs": [],
@@ -32548,7 +32549,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Assembly-CSharp-Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 2441727,
+      "PayloadOffset": 2441754,
       "PayloadLength": 11088,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -32833,9 +32834,9 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/4747638433968585886.rsp",
       "DisplayName": "Writing 4747638433968585886.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 2452904,
+      "PayloadOffset": 2452931,
       "PayloadLength": 45856,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-a825cca69bee26e40b",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-2fde630d42bbeea507",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/4747638433968585886.rsp"
@@ -33237,9 +33238,9 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/13686715218353603589.rsp",
       "DisplayName": "Writing 13686715218353603589.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 2498850,
+      "PayloadOffset": 2498877,
       "PayloadLength": 30841,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-a825cca69bee26e40b",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-2fde630d42bbeea507",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/13686715218353603589.rsp"
@@ -34233,9 +34234,9 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/12812556936427222528.rsp",
       "DisplayName": "Writing 12812556936427222528.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 2529781,
+      "PayloadOffset": 2529808,
       "PayloadLength": 32107,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-a825cca69bee26e40b",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-2fde630d42bbeea507",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/12812556936427222528.rsp"
@@ -35359,9 +35360,9 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/6946853940668886020.rsp",
       "DisplayName": "Writing 6946853940668886020.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 2561977,
+      "PayloadOffset": 2562004,
       "PayloadLength": 32120,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-a825cca69bee26e40b",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-2fde630d42bbeea507",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/6946853940668886020.rsp"
@@ -36487,9 +36488,9 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/16285879237017002407.rsp",
       "DisplayName": "Writing 16285879237017002407.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 2594187,
+      "PayloadOffset": 2594214,
       "PayloadLength": 32134,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-a825cca69bee26e40b",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-2fde630d42bbeea507",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/16285879237017002407.rsp"
@@ -37615,9 +37616,9 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/14832617886295879631.rsp",
       "DisplayName": "Writing 14832617886295879631.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 2626411,
+      "PayloadOffset": 2626438,
       "PayloadLength": 30887,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-a825cca69bee26e40b",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-2fde630d42bbeea507",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/14832617886295879631.rsp"
@@ -38743,9 +38744,9 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/1418726328684876121.rsp",
       "DisplayName": "Writing 1418726328684876121.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 2657387,
+      "PayloadOffset": 2657414,
       "PayloadLength": 28896,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-a825cca69bee26e40b",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-2fde630d42bbeea507",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/1418726328684876121.rsp"
@@ -39871,9 +39872,9 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/6591615775254759062.rsp",
       "DisplayName": "Writing 6591615775254759062.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 2686372,
+      "PayloadOffset": 2686399,
       "PayloadLength": 32120,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-a825cca69bee26e40b",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-2fde630d42bbeea507",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/6591615775254759062.rsp"
@@ -40999,9 +41000,9 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/5916180605834378387.rsp",
       "DisplayName": "Writing 5916180605834378387.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 2718581,
+      "PayloadOffset": 2718608,
       "PayloadLength": 30860,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-a825cca69bee26e40b",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-2fde630d42bbeea507",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/5916180605834378387.rsp"
@@ -42127,9 +42128,9 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/14355918427286719942.rsp",
       "DisplayName": "Writing 14355918427286719942.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 2749531,
+      "PayloadOffset": 2749558,
       "PayloadLength": 32132,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-a825cca69bee26e40b",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-2fde630d42bbeea507",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/14355918427286719942.rsp"
@@ -43255,9 +43256,9 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/9111662996337956171.rsp",
       "DisplayName": "Writing 9111662996337956171.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 2781752,
+      "PayloadOffset": 2781779,
       "PayloadLength": 30264,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-a825cca69bee26e40b",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-2fde630d42bbeea507",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/9111662996337956171.rsp"
@@ -44383,9 +44384,9 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/1177933628359149393.rsp",
       "DisplayName": "Writing 1177933628359149393.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 2812105,
+      "PayloadOffset": 2812132,
       "PayloadLength": 32112,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-a825cca69bee26e40b",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-2fde630d42bbeea507",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/1177933628359149393.rsp"
@@ -45511,9 +45512,9 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/908057632503650206.rsp",
       "DisplayName": "Writing 908057632503650206.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 2844305,
+      "PayloadOffset": 2844332,
       "PayloadLength": 32142,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-a825cca69bee26e40b",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-2fde630d42bbeea507",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/908057632503650206.rsp"
@@ -46639,9 +46640,9 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/9147286922948009921.rsp",
       "DisplayName": "Writing 9147286922948009921.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 2876536,
+      "PayloadOffset": 2876563,
       "PayloadLength": 32152,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-a825cca69bee26e40b",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-2fde630d42bbeea507",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/9147286922948009921.rsp"
@@ -47767,9 +47768,9 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/5546506141355401238.rsp",
       "DisplayName": "Writing 5546506141355401238.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 2908777,
+      "PayloadOffset": 2908804,
       "PayloadLength": 30890,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-a825cca69bee26e40b",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-2fde630d42bbeea507",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/5546506141355401238.rsp"
@@ -48895,9 +48896,9 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/8899139255040401798.rsp",
       "DisplayName": "Writing 8899139255040401798.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 2939756,
+      "PayloadOffset": 2939783,
       "PayloadLength": 30882,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-a825cca69bee26e40b",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-2fde630d42bbeea507",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/8899139255040401798.rsp"
@@ -50023,9 +50024,9 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/10571807241835812913.rsp",
       "DisplayName": "Writing 10571807241835812913.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 2970728,
+      "PayloadOffset": 2970755,
       "PayloadLength": 30946,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-a825cca69bee26e40b",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-2fde630d42bbeea507",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/10571807241835812913.rsp"
@@ -51151,9 +51152,9 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/13101280777650563663.rsp",
       "DisplayName": "Writing 13101280777650563663.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 3001764,
+      "PayloadOffset": 3001791,
       "PayloadLength": 28995,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-a825cca69bee26e40b",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-2fde630d42bbeea507",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/13101280777650563663.rsp"
@@ -52279,9 +52280,9 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/14402696373757716438.rsp",
       "DisplayName": "Writing 14402696373757716438.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 3030849,
+      "PayloadOffset": 3030876,
       "PayloadLength": 32263,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-a825cca69bee26e40b",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-2fde630d42bbeea507",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/14402696373757716438.rsp"
@@ -53411,9 +53412,9 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/12248871281822510316.rsp",
       "DisplayName": "Writing 12248871281822510316.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 3063202,
+      "PayloadOffset": 3063229,
       "PayloadLength": 32162,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-a825cca69bee26e40b",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-2fde630d42bbeea507",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/12248871281822510316.rsp"
@@ -54541,9 +54542,9 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/3938377011463375229.rsp",
       "DisplayName": "Writing 3938377011463375229.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 3095453,
+      "PayloadOffset": 3095480,
       "PayloadLength": 32180,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-a825cca69bee26e40b",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-2fde630d42bbeea507",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/3938377011463375229.rsp"
@@ -55671,9 +55672,9 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/2157608619508796868.rsp",
       "DisplayName": "Writing 2157608619508796868.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 3127722,
+      "PayloadOffset": 3127749,
       "PayloadLength": 30972,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-a825cca69bee26e40b",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-2fde630d42bbeea507",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/2157608619508796868.rsp"
@@ -56803,9 +56804,9 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/14814235663552238418.rsp",
       "DisplayName": "Writing 14814235663552238418.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 3158784,
+      "PayloadOffset": 3158811,
       "PayloadLength": 32174,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-a825cca69bee26e40b",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-2fde630d42bbeea507",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/14814235663552238418.rsp"
@@ -57933,9 +57934,9 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/17122354673617034552.rsp",
       "DisplayName": "Writing 17122354673617034552.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 3191048,
+      "PayloadOffset": 3191075,
       "PayloadLength": 30568,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-a825cca69bee26e40b",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-2fde630d42bbeea507",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/17122354673617034552.rsp"
@@ -59067,9 +59068,9 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/10292501669419677951.rsp",
       "DisplayName": "Writing 10292501669419677951.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 3221706,
+      "PayloadOffset": 3221733,
       "PayloadLength": 32174,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-a825cca69bee26e40b",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-2fde630d42bbeea507",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/10292501669419677951.rsp"
@@ -60197,9 +60198,9 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/4772145154433932943.rsp",
       "DisplayName": "Writing 4772145154433932943.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 3253969,
+      "PayloadOffset": 3253996,
       "PayloadLength": 32193,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-a825cca69bee26e40b",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-2fde630d42bbeea507",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/4772145154433932943.rsp"
@@ -61327,9 +61328,9 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/3388064732626934676.rsp",
       "DisplayName": "Writing 3388064732626934676.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 3286251,
+      "PayloadOffset": 3286278,
       "PayloadLength": 32192,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-a825cca69bee26e40b",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-2fde630d42bbeea507",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/3388064732626934676.rsp"
@@ -62457,9 +62458,9 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/5249134988916615986.rsp",
       "DisplayName": "Writing 5249134988916615986.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 3318532,
+      "PayloadOffset": 3318559,
       "PayloadLength": 31065,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-a825cca69bee26e40b",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-2fde630d42bbeea507",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/5249134988916615986.rsp"
@@ -63587,9 +63588,9 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/2400031028012695012.rsp",
       "DisplayName": "Writing 2400031028012695012.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 3349686,
+      "PayloadOffset": 3349713,
       "PayloadLength": 32332,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-a825cca69bee26e40b",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-2fde630d42bbeea507",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/2400031028012695012.rsp"
@@ -64721,9 +64722,9 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/17766336155681823506.rsp",
       "DisplayName": "Writing 17766336155681823506.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 3382108,
+      "PayloadOffset": 3382135,
       "PayloadLength": 32242,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-a825cca69bee26e40b",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-2fde630d42bbeea507",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/17766336155681823506.rsp"
@@ -65855,9 +65856,9 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/3818794330681902346.rsp",
       "DisplayName": "Writing 3818794330681902346.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 3414439,
+      "PayloadOffset": 3414466,
       "PayloadLength": 32182,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-a825cca69bee26e40b",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-2fde630d42bbeea507",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/3818794330681902346.rsp"
@@ -66989,9 +66990,9 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/15312589170787849123.rsp",
       "DisplayName": "Writing 15312589170787849123.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 3446711,
+      "PayloadOffset": 3446738,
       "PayloadLength": 32335,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-a825cca69bee26e40b",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-2fde630d42bbeea507",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/15312589170787849123.rsp"
@@ -68123,9 +68124,9 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/4691676790321305727.rsp",
       "DisplayName": "Writing 4691676790321305727.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 3479135,
+      "PayloadOffset": 3479162,
       "PayloadLength": 31006,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-a825cca69bee26e40b",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-2fde630d42bbeea507",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/4691676790321305727.rsp"
@@ -69255,9 +69256,9 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/17923285327036797829.rsp",
       "DisplayName": "Writing 17923285327036797829.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 3510231,
+      "PayloadOffset": 3510258,
       "PayloadLength": 31165,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-a825cca69bee26e40b",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-2fde630d42bbeea507",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/17923285327036797829.rsp"
@@ -70391,9 +70392,9 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/1723042715960067801.rsp",
       "DisplayName": "Writing 1723042715960067801.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 3541485,
+      "PayloadOffset": 3541512,
       "PayloadLength": 32491,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-a825cca69bee26e40b",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-2fde630d42bbeea507",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/1723042715960067801.rsp"
@@ -71529,9 +71530,9 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/7759033573704817190.rsp",
       "DisplayName": "Writing 7759033573704817190.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 3574065,
+      "PayloadOffset": 3574092,
       "PayloadLength": 32480,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-a825cca69bee26e40b",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-2fde630d42bbeea507",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/7759033573704817190.rsp"
@@ -72667,9 +72668,9 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/3676569134375922281.rsp",
       "DisplayName": "Writing 3676569134375922281.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 3606634,
+      "PayloadOffset": 3606661,
       "PayloadLength": 31042,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-a825cca69bee26e40b",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-2fde630d42bbeea507",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/3676569134375922281.rsp"
@@ -73805,9 +73806,9 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/10131660672807692368.rsp",
       "DisplayName": "Writing 10131660672807692368.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 3637766,
+      "PayloadOffset": 3637793,
       "PayloadLength": 30928,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-a825cca69bee26e40b",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-2fde630d42bbeea507",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/10131660672807692368.rsp"
@@ -74943,9 +74944,9 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/9630950048426576611.rsp",
       "DisplayName": "Writing 9630950048426576611.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 3668783,
+      "PayloadOffset": 3668810,
       "PayloadLength": 31093,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-a825cca69bee26e40b",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-2fde630d42bbeea507",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/9630950048426576611.rsp"
@@ -76081,9 +76082,9 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/2240406767038398906.rsp",
       "DisplayName": "Writing 2240406767038398906.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 3699965,
+      "PayloadOffset": 3699992,
       "PayloadLength": 32557,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-a825cca69bee26e40b",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-2fde630d42bbeea507",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/2240406767038398906.rsp"
@@ -77221,9 +77222,9 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/16800515999216397072.rsp",
       "DisplayName": "Writing 16800515999216397072.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 3732612,
+      "PayloadOffset": 3732639,
       "PayloadLength": 31115,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-a825cca69bee26e40b",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-2fde630d42bbeea507",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/16800515999216397072.rsp"
@@ -78363,9 +78364,9 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/4824701561327399296.rsp",
       "DisplayName": "Writing 4824701561327399296.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 3763816,
+      "PayloadOffset": 3763843,
       "PayloadLength": 32287,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-a825cca69bee26e40b",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-2fde630d42bbeea507",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/4824701561327399296.rsp"
@@ -79503,9 +79504,9 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/10678863128556690338.rsp",
       "DisplayName": "Writing 10678863128556690338.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 3796193,
+      "PayloadOffset": 3796220,
       "PayloadLength": 31292,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-a825cca69bee26e40b",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-2fde630d42bbeea507",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/10678863128556690338.rsp"
@@ -80704,9 +80705,9 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/2781082588993088484.rsp",
       "DisplayName": "Writing 2781082588993088484.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 3827574,
+      "PayloadOffset": 3827601,
       "PayloadLength": 34487,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-a825cca69bee26e40b",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-2fde630d42bbeea507",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/2781082588993088484.rsp"
@@ -83376,7 +83377,7 @@
     {
       "Annotation": "BuildPlayerDataGenerator Library/BuildPlayerData/Editor/TypeDb-All.json",
       "DisplayName": "BuildPlayerDataGenerator TypeDb-All",
-      "Action": "\"C:/Program Files/Unity/Hub/Editor/2022.3.47f1/Editor/Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/Unity/Hub/Editor/2022.3.47f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"F:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Library\\ScriptAssemblies\\Assembly-CSharp.dll\" -a=\"F:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Library\\ScriptAssemblies\\glTFast.Animation.dll\" -a=\"F:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Library\\ScriptAssemblies\\glTFast.dll\" -a=\"F:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Library\\ScriptAssemblies\\glTFast.Documentation.Examples.dll\" -a=\"F:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Library\\ScriptAssemblies\\glTFast.dots.dll\" -a=\"F:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Library\\ScriptAssemblies\\glTFast.Export.dll\" -a=\"F:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Library\\ScriptAssemblies\\glTFast.Newtonsoft.dll\" -a=\"F:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Library\\ScriptAssemblies\\Unity.AI.Navigation.dll\" -a=\"F:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Library\\ScriptAssemblies\\Unity.Burst.dll\" -a=\"F:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Library\\ScriptAssemblies\\Unity.Collections.dll\" -a=\"F:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Library\\ScriptAssemblies\\Unity.Mathematics.dll\" -a=\"F:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Library\\ScriptAssemblies\\Unity.TextMeshPro.dll\" -a=\"F:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Library\\ScriptAssemblies\\Unity.Timeline.dll\" -a=\"F:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Library\\ScriptAssemblies\\Unity.VisualScripting.Core.dll\" -a=\"F:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Library\\ScriptAssemblies\\Unity.VisualScripting.Flow.dll\" -a=\"F:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Library\\ScriptAssemblies\\Unity.VisualScripting.State.dll\" -a=\"F:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Library\\ScriptAssemblies\\UnityEngine.TestRunner.dll\" -a=\"F:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Library\\ScriptAssemblies\\UnityEngine.UI.dll\" -a=\"F:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Library\\PackageCache\\com.unity.burst@1.8.17\\Unity.Burst.CodeGen\\Unity.Burst.Cecil.dll\" -a=\"F:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Library\\PackageCache\\com.unity.burst@1.8.17\\Unity.Burst.CodeGen\\Unity.Burst.Cecil.Mdb.dll\" -a=\"F:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Library\\PackageCache\\com.unity.burst@1.8.17\\Unity.Burst.CodeGen\\Unity.Burst.Cecil.Pdb.dll\" -a=\"F:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Library\\PackageCache\\com.unity.burst@1.8.17\\Unity.Burst.CodeGen\\Unity.Burst.Cecil.Rocks.dll\" -a=\"F:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Library\\PackageCache\\com.unity.burst@1.8.17\\Unity.Burst.Unsafe.dll\" -a=\"F:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Library\\PackageCache\\com.unity.collections@1.2.4\\Unity.Collections.LowLevel.ILSupport\\Unity.Collections.LowLevel.ILSupport.dll\" -a=\"F:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\\nunit.framework.dll\" -a=\"F:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.6\\lib\\ReportGenerator\\ReportGeneratorMerged.dll\" -a=\"F:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\\Unity.VisualScripting.Antlr3.Runtime.dll\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.47f1\\Editor\\Data\\Managed\\UnityEngine\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.47f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netfx\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.47f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netstandard\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.47f1\\Editor\\Data\\NetStandard\\Extensions\\2.0.0\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.47f1\\Editor\\Data\\NetStandard\\ref\\2.1.0\" -s=\"F:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Library\\ScriptAssemblies\" -s=\"F:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Library\\PackageCache\\com.unity.burst@1.8.17\" -s=\"F:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Library\\PackageCache\\com.unity.burst@1.8.17\\Unity.Burst.CodeGen\" -s=\"F:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Library\\PackageCache\\com.unity.collections@1.2.4\\Unity.Collections.LowLevel.ILSupport\" -s=\"F:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\" -s=\"F:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.6\\lib\\ReportGenerator\" -s=\"F:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\" -o=\"Library/BuildPlayerData/Editor\" -rn=\"\" -tn=\"TypeDb-All.json\"",
+      "Action": "\"C:/Program Files/Unity/Hub/Editor/2022.3.47f1/Editor/Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/Unity/Hub/Editor/2022.3.47f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"D:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Library\\ScriptAssemblies\\Assembly-CSharp.dll\" -a=\"D:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Library\\ScriptAssemblies\\glTFast.Animation.dll\" -a=\"D:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Library\\ScriptAssemblies\\glTFast.dll\" -a=\"D:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Library\\ScriptAssemblies\\glTFast.Documentation.Examples.dll\" -a=\"D:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Library\\ScriptAssemblies\\glTFast.dots.dll\" -a=\"D:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Library\\ScriptAssemblies\\glTFast.Export.dll\" -a=\"D:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Library\\ScriptAssemblies\\glTFast.Newtonsoft.dll\" -a=\"D:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Library\\ScriptAssemblies\\Unity.AI.Navigation.dll\" -a=\"D:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Library\\ScriptAssemblies\\Unity.Burst.dll\" -a=\"D:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Library\\ScriptAssemblies\\Unity.Collections.dll\" -a=\"D:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Library\\ScriptAssemblies\\Unity.Mathematics.dll\" -a=\"D:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Library\\ScriptAssemblies\\Unity.TextMeshPro.dll\" -a=\"D:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Library\\ScriptAssemblies\\Unity.Timeline.dll\" -a=\"D:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Library\\ScriptAssemblies\\Unity.VisualScripting.Core.dll\" -a=\"D:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Library\\ScriptAssemblies\\Unity.VisualScripting.Flow.dll\" -a=\"D:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Library\\ScriptAssemblies\\Unity.VisualScripting.State.dll\" -a=\"D:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Library\\ScriptAssemblies\\UnityEngine.TestRunner.dll\" -a=\"D:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Library\\ScriptAssemblies\\UnityEngine.UI.dll\" -a=\"D:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Library\\PackageCache\\com.unity.burst@1.8.17\\Unity.Burst.CodeGen\\Unity.Burst.Cecil.dll\" -a=\"D:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Library\\PackageCache\\com.unity.burst@1.8.17\\Unity.Burst.CodeGen\\Unity.Burst.Cecil.Mdb.dll\" -a=\"D:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Library\\PackageCache\\com.unity.burst@1.8.17\\Unity.Burst.CodeGen\\Unity.Burst.Cecil.Pdb.dll\" -a=\"D:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Library\\PackageCache\\com.unity.burst@1.8.17\\Unity.Burst.CodeGen\\Unity.Burst.Cecil.Rocks.dll\" -a=\"D:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Library\\PackageCache\\com.unity.burst@1.8.17\\Unity.Burst.Unsafe.dll\" -a=\"D:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Library\\PackageCache\\com.unity.collections@1.2.4\\Unity.Collections.LowLevel.ILSupport\\Unity.Collections.LowLevel.ILSupport.dll\" -a=\"D:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\\nunit.framework.dll\" -a=\"D:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.6\\lib\\ReportGenerator\\ReportGeneratorMerged.dll\" -a=\"D:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\\Unity.VisualScripting.Antlr3.Runtime.dll\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.47f1\\Editor\\Data\\Managed\\UnityEngine\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.47f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netfx\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.47f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netstandard\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.47f1\\Editor\\Data\\NetStandard\\Extensions\\2.0.0\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.47f1\\Editor\\Data\\NetStandard\\ref\\2.1.0\" -s=\"D:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Library\\ScriptAssemblies\" -s=\"D:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Library\\PackageCache\\com.unity.burst@1.8.17\" -s=\"D:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Library\\PackageCache\\com.unity.burst@1.8.17\\Unity.Burst.CodeGen\" -s=\"D:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Library\\PackageCache\\com.unity.collections@1.2.4\\Unity.Collections.LowLevel.ILSupport\" -s=\"D:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\" -s=\"D:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.6\\lib\\ReportGenerator\" -s=\"D:\\Main Storage\\School Stuff\\GAMPROG2\\GAMPROG2_Finals\\Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\" -o=\"Library/BuildPlayerData/Editor\" -rn=\"\" -tn=\"TypeDb-All.json\"",
       "Inputs": [
         "C:/Program Files/Unity/Hub/Editor/2022.3.47f1/Editor/Data/Tools/netcorerun/netcorerun.exe",
         "C:/Program Files/Unity/Hub/Editor/2022.3.47f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe",
@@ -83777,6 +83778,6 @@
   "SharedResources": [],
   "Scanners": [],
   "Identifier": "Library/Bee/1900b0aE.dag.json",
-  "PayloadsFile": "F:/Main Storage/School Stuff/GAMPROG2/GAMPROG2_Finals/Library/Bee/1900b0aE.dag.payloads",
+  "PayloadsFile": "D:/Main Storage/School Stuff/GAMPROG2/GAMPROG2_Finals/Library/Bee/1900b0aE.dag.payloads",
   "RelativePathToRoot": "../.."
 }
